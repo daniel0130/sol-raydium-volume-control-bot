@@ -64,4 +64,4 @@ For detailed guidance and technical assistance, feel free to reach out to me dir
 
 ### Contact info
 
-- Discord: [@inscNix]([https://t.me/inscNix](https://discord.com/users/1077968756644511795))
+- Discord: [@inscNix]([https://discord.com/users/1077968756644511795])
