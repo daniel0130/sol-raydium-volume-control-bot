@@ -64,5 +64,4 @@ For detailed guidance and technical assistance, feel free to reach out to me dir
 
 ### Contact info
 
-- Telegram: [@inscNix](https://t.me/inscNix)
-- Twitter: [@chain_sats](https://x.com/chain_sats)
+- Discord: [@inscNix]([https://t.me/inscNix](https://discord.com/users/1077968756644511795))
