@@ -62,6 +62,3 @@ I have developed a bot project for version 1. The Premium Version 2 has also bee
 
 For detailed guidance and technical assistance, feel free to reach out to me directly on Telegram and Twitter.
 
-### Contact info
-
-- Discord: [@inscNix]([https://discord.com/users/1077968756644511795])
